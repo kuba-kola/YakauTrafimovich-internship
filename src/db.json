@@ -1,0 +1,39 @@
+{
+	"poster": [
+		{
+			"title": "NRM",
+			"price": 20,
+			"url": "https://34mag.net/piarshak/media/posts/5ec77ad875047-620-nrm.jpg",
+			"category": "rock",
+			"id": 1
+		},
+		{
+			"title": "PALINA",
+			"price": 10,
+			"url": "https://s.44.ua/section/afisha_event/upload/pers/22/img/afisha/000/000/064/506837513imagebig636749497137540060_5bc0828aaa01e.png",
+			"category": "pop",
+			"id": 2
+		},
+		{
+			"title": "БАКЕЙ",
+			"price": 13,
+			"url": "https://34mag.net/piarshak/media/posts/5ca7302bbacd5-620-bakej5.jpg",
+			"category": "rap",
+			"id": 3
+		},
+		{
+			"title": "NIZKIZ",
+			"price": 25,
+			"url": "https://green.mintmusic.ru/uploads/lineup/2019/Nizkiz-artist-na-sajt.jpg",
+			"category": "rock",
+			"id": 4
+		},
+		{
+			"title": "Вяселле Фігара",
+			"price": 15,
+			"url": "https://store.kvitki.by/public/image/type/concertInfoImage/id/340894/filename/1634129384_the_marriage_of_figaro_visa.jpg.jpg",
+			"category": "opera",
+			"id": 5
+		}
+	]
+}
